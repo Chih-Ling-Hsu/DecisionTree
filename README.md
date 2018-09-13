@@ -1,5 +1,7 @@
 # Classification: Decision Tree
 
+Python implementation of Decision Tree. (a practice)
+
 ## Usage
 
 ### 1.	Import the class
